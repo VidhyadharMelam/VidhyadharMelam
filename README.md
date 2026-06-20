@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Vidhyadhar Melam | Data Science abd Analytics | Master's in Information Engineering and Computer Science 
 * 📈 Transforming Data into Insights, Insights into Decisions, and Decisions into Impact.<br>
 * 🔭 I'm currently working on Building scalable data pipelines and analytics solutions using Databricks, Azure Data Factory, SQL, and Python while developing end-to-end projects spanning data engineering, analytics, and machine learning.<br>
 * 👯 I'm looking to collaborate on Open-source projects related to Data Engineering, Data Analytics, Machine Learning, cloud-native data platforms, and AI-driven business solutions.<br>
