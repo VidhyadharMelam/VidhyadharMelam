@@ -17,19 +17,41 @@
 # 💻 Tech Stack:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-* 🔭 I'm currently working on Building scalable data pipelines and analytics solutions using Databricks, Azure Data Factory, SQL, and Python while developing end-to-end projects spanning data engineering, analytics, and machine learning.<br>
-* 👯 I'm looking to collaborate on Open-source projects related to Data Engineering, Data Analytics, Machine Learning, cloud-native data platforms, and AI-driven business solutions.<br>
-* 🤝 I'm looking for help with Advanced MLOps practices, distributed data architectures, real-time streaming systems, and productionizing machine learning models at scale.<br>
-* 🌱 I'm currently learning Apache Spark optimization, Databricks best practices, Microsoft Fabric, advanced machine learning techniques, and modern lakehouse architectures.<br>
-* 💬 Ask me about SQL optimization, ETL/ELT pipelines, Databricks, Azure Data Factory, Python for analytics, Power BI/Tableau dashboards, workforce analytics, predictive modeling, and translating business requirements into data solutions.<br>
-* ⚡ Fun fact I enjoy transforming messy datasets into actionable insights and believe every dataset has a story waiting to be uncovered.<br>
-* 🎯 Career Goal: To build intelligent, scalable, and data-driven solutions that bridge the gap between engineering, analytics, and machine learning while enabling impactful business decisions.<br>
-* ☁️ Areas of Expertise: Data Engineering • Data Analytics • Machine Learning • ETL/ELT Development • SQL Optimization • Dashboarding • Predictive Analytics • Data Modeling • Cloud Data Platforms<br>
-* 📌 Featured Technologies: Python • SQL • Databricks • PySpark • Azure Data Factory • Power BI • Tableau • Microsoft Fabric • AWS S3 • Scikit-learn<br>
-* 🏆 Proud Achievement: Designed and implemented multiple analytics-ready data pipelines using Medallion Architecture, transforming over 100K+ records into reliable reporting datasets that improved reporting efficiency and reduced manual validation efforts.<br>
-* 📚 Currently Exploring Lakehouse architectures, Generative AI applications in analytics, MLOps workflows, and real-time data streaming using modern data platforms.<br>
-* 🤝Open to opportunities in Data Engineering, Data Analytics, Business Intelligence, and Data Science where I can contribute to solving complex data challenges.<br>
-* 🌍 Passionate about turning raw data into scalable solutions, actionable insights, and intelligent systems that create measurable business impact.<br>
+## 🚀 About Me
+
+* 🔭 **Currently Building:** Designing scalable data pipelines and analytics solutions using **Databricks, Azure Data Factory, SQL, and Python**, while developing end-to-end projects across **Data Engineering, Analytics, and Machine Learning**.
+
+* 🤝 **Open to Collaborate:** Contributing to open-source initiatives focused on **Data Engineering, Data Analytics, Machine Learning, cloud-native platforms, and AI-powered solutions**.
+
+* 🧠 **Seeking Insights On:** Advanced **MLOps**, distributed data architectures, real-time streaming ecosystems, and deploying machine learning solutions at production scale.
+
+* 🌱 **Continuously Learning:** Exploring **Apache Spark optimization, Microsoft Fabric, Databricks best practices, modern Lakehouse architectures, and advanced machine learning techniques** to stay ahead in the evolving data landscape.
+
+* 💬 **Let's Talk About:** SQL optimization, ETL/ELT pipelines, Databricks, Azure Data Factory, Python for analytics, Power BI, Tableau, workforce analytics, predictive modeling, and transforming business requirements into actionable data solutions.
+
+* ⚡ **Fun Fact:** I genuinely enjoy turning messy datasets into meaningful stories—because behind every dataset lies an opportunity to uncover insights that matter.
+
+---
+
+## 🎯 Professional Highlights
+
+* 🎯 **Career Mission:** To build intelligent, scalable, and data-driven solutions that bridge the gap between engineering, analytics, and machine learning—empowering organizations to make smarter decisions.
+
+* ☁️ **Core Expertise:**
+  **Data Engineering • Data Analytics • Machine Learning • ETL/ELT Development • SQL Optimization • Dashboarding • Predictive Analytics • Data Modeling • Cloud Data Platforms**
+
+* 🛠️ **Favorite Technologies:**
+  **Python • SQL • Databricks • PySpark • Azure Data Factory • Power BI • Tableau • Microsoft Fabric • AWS S3 • Scikit-learn**
+
+* 🏆 **Achievement I'm Proud Of:** Designed and implemented analytics-ready pipelines using **Medallion Architecture**, transforming **100K+ records** into reliable reporting datasets while improving efficiency and significantly reducing manual validation efforts.
+
+* 📚 **Currently Exploring:** Lakehouse architectures, **Generative AI for analytics**, MLOps workflows, and real-time data streaming technologies shaping the future of modern data platforms.
+
+* 💼 **Open to Opportunities:** Data Engineering, Data Analytics, Business Intelligence, Analytics Engineering, and Data Science roles where I can solve meaningful problems through the power of data.
+
+* 🌍 **What Drives Me:** Passionate about transforming raw data into scalable solutions, actionable insights, and intelligent systems that create measurable business impact.
+
+---
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
