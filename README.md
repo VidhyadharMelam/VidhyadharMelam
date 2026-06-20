@@ -1,5 +1,5 @@
 # Hi there, I'm Vidhyadhar Melam 👋 
-Data Analytics Professional • Data Engineer • Machine Learning Enthusiast \ 
+Data Analytics Professional • Data Engineer • Machine Learning Enthusiast
 
 📈 Transforming Data into Insights, Insights into Decisions, and Decisions into Impact
 
