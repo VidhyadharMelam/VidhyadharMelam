@@ -3,7 +3,8 @@
 
 📈 Transforming Data into Insights, Insights into Decisions, and Decisions into Impact
 
-🎓 Master of Science in Information Engineering & Computer Science * Rhine-Waal University of Applied Sciences, Germany
+🎓 Master of Science in Information Engineering & Computer Science
+* Rhine-Waal University of Applied Sciences, Germany
 
 
 🏅 Microsoft Certified: Fabric Data Engineer Associate (DP-700)
