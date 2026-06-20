@@ -1,5 +1,6 @@
-# Hi there, I'm Vidhyadhar Melam 👋 * 📈 Transforming Data into Insights, Insights into Decisions, and Decisions into Impact.<br>
+# Hi there, I'm Vidhyadhar Melam 👋 
 Data Analytics Professional • Data Engineer • Machine Learning Enthusiast
+📈 Transforming Data into Insights, Insights into Decisions, and Decisions into Impact
 
 🎓 Master of Science in Information Engineering & Computer Science \
  @ Hochschule Rhine-Waal University of Applied Sciences, Germany
