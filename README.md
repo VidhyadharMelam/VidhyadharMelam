@@ -8,7 +8,7 @@
 
 🎓 Master of Science in Information Engineering & Computer Science, Hochschule Rhine-Waal University of Applied Sciences, Germany
 
-🏆 Master's Thesis Excellence: Awarded a perfect score (100%) for my thesis research.
+🏆 Master's Thesis Excellence: Achieved the highest possible grade (100%) for my Master's thesis in Machine Learning & Data Science.
 
 🏅 Microsoft Certified: Fabric Data Engineer Associate (DP-700)
 
