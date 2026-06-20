@@ -1,6 +1,8 @@
 # Hi there, I'm Vidhyadhar Melam 👋 
 
-<img src="https://img.shields.io/badge/Microsoft%20Certified-Fabric%20Data%20Engineer%20Associate-blue?style=flat-square&logo=microsoft&logoColor=white"/>
+<a href="YOUR_MICROSOFT_CERTIFICATION_URL" target="_blank">
+  <img src="https://img.shields.io/badge/DP--700-Microsoft%20Fabric%20Data%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
 
 📊 Data Analytics Professional • ⚙️ Data Engineer • 🤖 Machine Learning Enthusiast
 
