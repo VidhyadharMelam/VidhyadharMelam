@@ -4,11 +4,11 @@
 
 ### 📊 Data Analytics Professional • ⚙️ Data Engineer • 🤖 Machine Learning Enthusiast
 
-📈 Transforming Data into Insights, Insights into Decisions, and Decisions into Impact
+### 📈 Transforming Data into Insights, Insights into Decisions, and Decisions into Impact
 
 ### 🎓 Master of Science in Information Engineering & Computer Science, Hochschule Rhine-Waal University of Applied Sciences, Germany
 
-🏅 Microsoft Certified: Fabric Data Engineer Associate (DP-700)
+### 🏅 Microsoft Certified: Fabric Data Engineer Associate (DP-700)
 
 
 ## 🌐 Socials:
