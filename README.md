@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hi there, I'm Vidhyadhar Melam 👋 
 
 <img src="https://img.shields.io/badge/Microsoft%20Certified-Fabric%20Data%20Engineer%20Associate-blue?style=flat-square&logo=microsoft&logoColor=white"/>
@@ -14,7 +12,6 @@
 
 🏅 Microsoft Certified: Fabric Data Engineer Associate (DP-700)
 
-</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vidhyadhar-melam) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@vidhyadhar.melam) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Wise_Necessary_8128) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@viddi_ezx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vidhyadhar.melam@outlook.com) 
