@@ -1,7 +1,7 @@
 # Hi there, I'm Vidhyadhar Melam 👋
 Data Analytics Professional • Data Engineer • Machine Learning Enthusiast
 
-🎓 Master of Science in Information Engineering & Computer Science
+🎓 Master of Science in Information Engineering & Computer Science \
  @ Hochschule Rhine-Waal University of Applied Sciences, Germany
 
  🏅 Microsoft Certified: Fabric Data Engineer Associate (DP-700)
