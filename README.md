@@ -1,4 +1,10 @@
-# 💫 About Me: Vidhyadhar Melam 
+# Hi there, I'm Vidhyadhar Melam 👋
+Data Analytics Professional • Data Engineer • Machine Learning Enthusiast
+
+🎓 Master of Science in Information Engineering & Computer Science
+ @ Hochschule Rhine-Waal University of Applied Sciences, Germany
+
+ 🏅 Microsoft Certified: Fabric Data Engineer Associate (DP-700)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vidhyadhar-melam) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@vidhyadhar.melam) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Wise_Necessary_8128) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@viddi_ezx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vidhyadhar.melam@outlook.com) 
@@ -22,10 +28,6 @@
 * 📚 Currently Exploring Lakehouse architectures, Generative AI applications in analytics, MLOps workflows, and real-time data streaming using modern data platforms.<br>
 * 🤝Open to opportunities in Data Engineering, Data Analytics, Business Intelligence, and Data Science where I can contribute to solving complex data challenges.<br>
 * 🌍 Passionate about turning raw data into scalable solutions, actionable insights, and intelligent systems that create measurable business impact.<br>
-
-
-
-
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
