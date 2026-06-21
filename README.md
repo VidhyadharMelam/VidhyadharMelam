@@ -348,7 +348,7 @@ I believe that continuous learning is essential in the ever-evolving world of da
 
 ---
 
-## 🇩🇪 Master of Science (M.Sc.)
+## Master of Science (M.Sc.)
 ### Information Engineering & Computer Science
 
 🏛️ **Hochschule Rhine-Waal University of Applied Sciences, Germany**
