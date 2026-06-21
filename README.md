@@ -342,6 +342,49 @@ I believe that continuous learning is essential in the ever-evolving world of da
 
 ---
 
+# 🎓 Education
+
+> *A journey shaped by curiosity, continuous learning, and the pursuit of transforming data into meaningful solutions that create real-world impact.*
+
+---
+
+## 🇩🇪 Master of Science (M.Sc.)
+### Information Engineering & Computer Science
+
+🏛️ **Hochschule Rhine-Waal University of Applied Sciences, Germany**
+
+📍 Germany
+
+#### 🌟 Academic Highlights
+
+- 🏆 **Master's Thesis Excellence:** Achieved the **highest possible grade (100%)** for my Master's thesis, demonstrating exceptional academic and research performance.
+- 🩺 **Thesis Title:**  
+  *"Investigating the Effectiveness of Machine Learning Algorithms in Early Prediction of Chronic Kidney Disease using Various Classification and Regression Modelling."*
+- 🤖 Explored and evaluated multiple machine learning approaches to support the **early detection of Chronic Kidney Disease (CKD)** through predictive analytics.
+- 📊 Applied data preprocessing, feature engineering, classification, and regression techniques to identify models capable of improving healthcare decision-making.
+- 🌍 Gained valuable international exposure through a multidisciplinary and multicultural academic environment, strengthening both technical expertise and cross-cultural collaboration.
+
+> *"True innovation happens when technology is applied to solve problems that matter to people's lives."*
+
+---
+
+## 🎓 Bachelor of Computer Applications (BCA)
+
+🏛️ **Bachelor's Degree in Computer Applications**
+
+📍 India
+
+#### 🌟 Academic Foundation
+
+- 💻 Built a strong foundation in **programming, databases, software development, and computational problem-solving**.
+- 🧠 Developed analytical thinking and a structured approach to tackling complex technical challenges.
+- 📈 Cultivated an early passion for data, technology, and building solutions through software and information systems.
+- 🚀 Established the core technical skills and curiosity that ultimately led to specializing in **Data Engineering, Analytics, and Machine Learning**.
+
+> *"Every expert begins with a strong foundation—mine started with understanding how technology can be used to solve real-world problems."*
+
+---
+
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
