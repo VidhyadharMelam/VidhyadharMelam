@@ -385,6 +385,15 @@ I believe that continuous learning is essential in the ever-evolving world of da
 
 ---
 
+# 🤝 Let's Connect
+
+I'm always open to discussing Data Engineering, Analytics, Machine Learning, and opportunities to build impactful solutions through data.
+
+📧 Email: vidhyadhar.melam@outlook.com
+🔗 LinkedIn: linkedin.com/in/vidhyadhar-melam
+
+---
+
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
