@@ -303,6 +303,45 @@ Developed an end-to-end migration framework to transition data workloads from on
 
 ---
 
+# 📜 Certifications
+
+> *Industry-recognized certifications that validate my expertise in modern data platforms, cloud technologies, and data engineering practices.*
+
+---
+
+## 🏅 Microsoft Certified: Fabric Data Engineer Associate (DP-700)
+
+<p>
+  <a href="https://github.com/VidhyadharMelam/Microsoft-Certified-Fabric-Data-Engineer-Associate/raw/main/Credentials%20-%20Vidhyadhar%20-%20Melam.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/DP--700-Microsoft%20Fabric%20Data%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric Data Engineer Associate"/>
+  </a>
+
+  <a href="https://github.com/VidhyadharMelam/Microsoft-Certified-Fabric-Data-Engineer-Associate/raw/main/Credentials%20-%20Vidhyadhar%20-%20Melam.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Credential-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Credential"/>
+  </a>
+</p>
+
+### 🎯 What This Certification Validates
+
+- ⚙️ Designing and implementing scalable data solutions using Microsoft Fabric
+- 🏛️ Building and managing Lakehouse architectures
+- 🔄 Developing robust ETL/ELT pipelines
+- 📊 Transforming and preparing data for analytics workloads
+- ☁️ Working with Fabric Data Engineering components and best practices
+- 🔐 Ensuring reliability, governance, and performance across data workflows
+
+> **Credential Status:** ✅ Active & Verified
+
+---
+
+### 🚀 Continuous Learning Philosophy
+
+I believe that continuous learning is essential in the ever-evolving world of data and AI. Certifications complement hands-on experience by validating knowledge while real-world projects demonstrate practical application.
+
+> *"Learning never stops—the best data professionals evolve as fast as the technologies they work with."*
+
+---
+
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
