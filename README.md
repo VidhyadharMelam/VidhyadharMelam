@@ -35,21 +35,79 @@
 
 # 🎯 Professional Highlights
 
-* 🎯 **Career Mission:** To build intelligent, scalable, and data-driven solutions that bridge the gap between engineering, analytics, and machine learning—empowering organizations to make smarter decisions.
+> *A snapshot of the expertise, values, and aspirations that shape the way I approach data, technology, and problem-solving.*
 
-* ☁️ **Core Expertise:**
-  **Data Engineering • Data Analytics • Machine Learning • ETL/ELT Development • SQL Optimization • Dashboarding • Predictive Analytics • Data Modeling • Cloud Data Platforms**
+---
 
-* 🛠️ **Favorite Technologies:**
-  **Python • SQL • Databricks • PySpark • Azure Data Factory • Power BI • Tableau • Microsoft Fabric • AWS S3 • Scikit-learn**
+### 🎯 Career Mission
+To design intelligent, scalable, and data-driven solutions that bridge the gap between **Data Engineering, Analytics, and Machine Learning**, empowering organizations to transform data into strategic advantage and make confident, insight-driven decisions.
 
-* 🏆 **Achievement I'm Proud Of:** Designed and implemented analytics-ready pipelines using **Medallion Architecture**, transforming **100K+ records** into reliable reporting datasets while improving efficiency and significantly reducing manual validation efforts.
+---
 
-* 📚 **Currently Exploring:** Lakehouse architectures, **Generative AI for analytics**, MLOps workflows, and real-time data streaming technologies shaping the future of modern data platforms.
+### ☁️ Areas of Expertise
 
-* 💼 **Open to Opportunities:** Data Engineering, Data Analytics, Business Intelligence, Analytics Engineering, and Data Science roles where I can solve meaningful problems through the power of data.
+Leveraging a multidisciplinary skill set to deliver end-to-end data solutions across the modern data ecosystem:
 
-* 🌍 **What Drives Me:** Passionate about transforming raw data into scalable solutions, actionable insights, and intelligent systems that create measurable business impact.
+- ⚙️ Data Engineering & Analytics Engineering
+- 📊 Data Analytics & Business Intelligence
+- 🤖 Machine Learning & Predictive Analytics
+- 🔄 ETL/ELT Design and Development
+- 🗄️ SQL Optimization & Data Modeling
+- 📈 Dashboarding and Data Visualization
+- ☁️ Cloud-Native Data Platforms
+- 🏛️ Lakehouse Architecture Implementation
+
+---
+
+### 🛠️ Technologies I Enjoy Working With
+
+Building reliable and scalable solutions using technologies that power modern data teams:
+
+`Python` • `SQL` • `Databricks` • `PySpark` • `Azure Data Factory` • `Microsoft Fabric` • `Power BI` • `Tableau` • `AWS S3` • `Scikit-learn`
+
+---
+
+### 🏆 Achievement I'm Most Proud Of
+
+Designed and implemented analytics-ready pipelines following the **Medallion Architecture**, transforming **100K+ records** into trusted reporting datasets that improved reporting efficiency, enhanced data quality, and significantly reduced manual validation efforts.
+
+> **Impact:** Demonstrated how well-designed data architectures can convert operational complexity into reliable business insights.
+
+---
+
+### 📚 Currently Exploring
+
+Committed to continuous learning and staying ahead of emerging trends shaping the future of data:
+
+- 🌊 Real-Time Data Streaming Architectures
+- 🏛️ Modern Lakehouse Design Patterns
+- 🤖 Generative AI Applications in Analytics
+- 🔬 Advanced MLOps and Model Lifecycle Management
+- ⚡ Apache Spark Optimization Techniques
+- ☁️ Microsoft Fabric and Next-Generation Data Platforms
+
+---
+
+### 💼 Open to Opportunities
+
+Actively seeking opportunities where I can contribute, learn, and create meaningful impact in roles such as:
+
+- ⚙️ Data Engineer
+- 📊 Data Analyst
+- 📈 Analytics Engineer
+- 📉 Business Intelligence Developer
+- 🤖 Data Scientist
+- ☁️ Cloud Data Engineer
+
+> *Driven by curiosity, collaboration, and the desire to solve meaningful problems through data.*
+
+---
+
+### 🌍 What Drives Me
+
+I believe that data has little value unless it enables action. What motivates me is transforming fragmented information into scalable solutions, actionable insights, and intelligent systems that help people make better decisions and create measurable business outcomes.
+
+> *"The true power of data lies not in its volume, but in its ability to inspire action and drive meaningful change."*
 
 ---
 
