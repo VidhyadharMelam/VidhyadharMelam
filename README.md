@@ -370,7 +370,7 @@ I believe that continuous learning is essential in the ever-evolving world of da
 
 ## 🎓 Bachelor of Computer Applications (BCA)
 
-🏛️ **Bachelor's Degree in Computer Applications**
+🏛️ **Presidency College - Bengaluru University, Bengaluru**
 
 📍 India
 
