@@ -54,95 +54,108 @@
 ---
 
 # 🚀 Featured Projects
-* ⚙️ **Operational Reporting Dataset Automation Platform
-Automating Operational Reporting Through Scalable Data Pipelines
 
-Designed and implemented an end-to-end data automation platform to transform raw operational datasets into reliable, analytics-ready reporting assets. The solution streamlined data preparation workflows, reduced manual intervention, and improved the consistency and availability of business reports used for decision-making.
+> *A curated portfolio of projects demonstrating expertise across Data Engineering, Data Analytics, and Machine Learning — transforming complex business challenges into scalable, data-driven solutions.*
 
-Key Contributions
+---
 
-Built automated ETL/ELT workflows to process operational data efficiently.
-Standardized reporting datasets to improve reliability and reduce validation effort.
-Developed scalable data transformation logic to support evolving reporting requirements.
-Enhanced reporting readiness by delivering curated datasets for downstream consumers.
+## ⚙️ Operational Reporting Dataset Automation Platform
+### Automating Operational Reporting Through Scalable Data Pipelines
 
-Business Impact
+Designed and implemented an end-to-end data automation platform to transform raw operational datasets into reliable, analytics-ready reporting assets.
 
-Reduced manual reporting effort and improved reporting efficiency by enabling consistent, analytics-ready datasets.
+#### 🎯 Key Highlights
+- Automated ETL/ELT workflows to streamline operational reporting.
+- Standardized datasets to improve reporting accuracy and consistency.
+- Reduced manual validation through scalable transformation logic.
+- Delivered curated datasets for downstream reporting consumers.
 
-Tech Stack: Databricks • SQL • Python • ETL/ELT • Reporting Automation
+#### 💼 Business Impact
+> Enabled faster and more reliable reporting by reducing manual effort and improving data readiness for decision-making.
 
-* 📊 **Workforce Capacity Planning & Forecasting Analytics Platform
-Enabling Data-Driven Workforce Planning and Resource Optimization
+**🛠️ Tech Stack:** `Databricks` • `SQL` • `Python` • `ETL/ELT` • `Reporting Automation`
 
-Developed a forecasting and analytics platform to support workforce capacity planning by identifying demand trends, forecasting future staffing needs, and enabling proactive decision-making. The solution provided actionable insights to optimize resource allocation and improve planning accuracy.
+🔗 **Repository:** https://github.com/VidhyadharMelam/Operational-Reporting-Dataset-Automation-Platform
 
-Key Contributions
+---
 
-Built forecasting models to estimate future workforce requirements.
-Designed analytical workflows to uncover capacity utilization patterns.
-Delivered business-friendly insights to support strategic planning initiatives.
-Translated analytical findings into actionable recommendations.
+## 📊 Workforce Capacity Planning & Forecasting Analytics Platform
+### Enabling Data-Driven Workforce Planning and Resource Optimization
 
-Business Impact
+Developed a forecasting and analytics platform to support workforce planning by identifying demand trends and forecasting future staffing requirements.
 
-Empowered stakeholders to make informed workforce decisions through predictive insights and capacity analytics.
+#### 🎯 Key Highlights
+- Built forecasting models to estimate workforce demand.
+- Identified utilization patterns and capacity constraints.
+- Generated actionable recommendations for stakeholders.
+- Supported strategic planning through predictive insights.
 
-Tech Stack: Python • Forecasting • Analytics • Statistical Modeling • Data Visualization
+#### 💼 Business Impact
+> Empowered decision-makers with predictive workforce insights to optimize planning and resource allocation.
 
-* 🤖 **Turbofan Engine Remaining Useful Life Prediction
-Predictive Maintenance Using Machine Learning
+**🛠️ Tech Stack:** `Python` • `Forecasting` • `Analytics` • `Statistical Modeling` • `Data Visualization`
 
-Engineered a machine learning solution to predict the Remaining Useful Life (RUL) of aircraft turbofan engines using sensor telemetry data. The project demonstrated the application of predictive analytics to industrial maintenance scenarios, enabling early intervention and reducing operational risk.
+🔗 **Repository:** https://github.com/VidhyadharMelam/Workforce-Capacity-Planning-Forecasting-Analytics-Platform
 
-Key Contributions
+---
 
-Developed predictive models using historical engine sensor data.
-Performed feature engineering and data preprocessing to improve model performance.
-Evaluated multiple machine learning approaches for accurate life estimation.
-Interpreted model outputs to support maintenance planning decisions.
+## 🤖 Turbofan Engine Remaining Useful Life Prediction
+### Predictive Maintenance Using Machine Learning
 
-Business Impact
+Built a machine learning solution to estimate the Remaining Useful Life (RUL) of aircraft turbofan engines using sensor telemetry data.
 
-Demonstrated how predictive maintenance can reduce unexpected failures and improve operational reliability.
+#### 🎯 Key Highlights
+- Developed predictive models using historical engine data.
+- Performed feature engineering and preprocessing.
+- Evaluated multiple ML algorithms for performance optimization.
+- Interpreted predictions to support maintenance planning.
 
-Tech Stack: Python • Scikit-learn • Machine Learning • Predictive Analytics
+#### 💼 Business Impact
+> Demonstrated how predictive maintenance can minimize unexpected failures and improve operational reliability.
 
-* ☁️ **Azure End-to-End Data Engineering Platform (Olist E-Commerce)
-Building a Modern Cloud-Native Data Platform
+**🛠️ Tech Stack:** `Python` • `Scikit-learn` • `Machine Learning` • `Predictive Analytics`
 
-Designed and implemented an end-to-end data engineering solution on Azure using Databricks and PySpark to ingest, transform, and prepare e-commerce datasets for analytical consumption. The platform followed scalable engineering practices suitable for enterprise environments.
+🔗 **Repository:** https://github.com/VidhyadharMelam/Turbofan-Engine-RUL-Prediction
 
-Key Contributions
+---
 
-Built ingestion and transformation pipelines using Azure services and Databricks.
-Implemented scalable data processing workflows with PySpark.
-Structured datasets to support analytical reporting and downstream consumption.
-Applied modern data engineering principles to improve maintainability and scalability.
+## ☁️ Azure End-to-End Data Engineering Platform (Olist E-Commerce)
+### Building a Modern Cloud-Native Data Platform
 
-Business Impact
+Designed and implemented an end-to-end Azure data platform leveraging Databricks and PySpark to process and transform e-commerce datasets at scale.
 
-Accelerated the availability of trusted analytical datasets through an automated cloud-based architecture.
+#### 🎯 Key Highlights
+- Built ingestion and transformation pipelines using Azure services.
+- Implemented scalable processing using PySpark.
+- Structured analytics-ready datasets for reporting.
+- Applied modern data engineering best practices.
 
-Tech Stack: Azure • Databricks • PySpark • Delta Lake • Data Engineering
+#### 💼 Business Impact
+> Accelerated access to trusted analytical datasets through an automated cloud-based architecture.
 
-* 🔄 **On-Premises to Azure Cloud Migration (AdventureWorks)
-Modernizing Enterprise Data Workloads Through Cloud Migration
+**🛠️ Tech Stack:** `Azure` • `Databricks` • `PySpark` • `Delta Lake` • `Data Engineering`
 
-Developed an end-to-end migration framework to move data workloads from on-premises systems to Azure, enabling scalable analytics capabilities and supporting cloud adoption initiatives.
+🔗 **Repository:** https://github.com/VidhyadharMelam/Azure-End-To-End-Data-Engineering-Databricks-Pyspark-Project--Olist-E-Commerce
 
-Key Contributions
+---
 
-Designed ingestion pipelines for extracting and loading on-premises data.
-Orchestrated data movement and transformation workflows.
-Established cloud-ready datasets for analytical use cases.
-Improved scalability and flexibility through cloud-native integration.
+## 🔄 On-Premises to Azure Cloud Migration (AdventureWorks)
+### Modernizing Enterprise Data Workloads Through Cloud Migration
 
-Business Impact
+Developed an end-to-end migration framework to transition data workloads from on-premises systems to Azure.
 
-Enabled the transition from legacy systems to a scalable cloud analytics environment.
+#### 🎯 Key Highlights
+- Designed ingestion pipelines for legacy systems.
+- Orchestrated cloud migration workflows.
+- Established cloud-ready analytical datasets.
+- Improved scalability through Azure-native integration.
 
-Tech Stack: Azure Data Factory • Azure • SQL • ETL • Cloud Migration
+#### 💼 Business Impact
+> Enabled the transition from legacy infrastructure to a scalable cloud analytics environment.
+
+**🛠️ Tech Stack:** `Azure Data Factory` • `Azure` • `SQL` • `ETL` • `Cloud Migration`
+
+🔗 **Repository:** https://github.com/VidhyadharMelam/Azure-End-To-End-Data-Engineering-On-prem-to-Azure-Cloud-AdventureWorks-Database
 
 ---
 
