@@ -95,7 +95,7 @@ Developed a forecasting and analytics platform to support workforce planning by 
 
 **🛠️ Tech Stack:** `Python` • `Forecasting` • `Analytics` • `Statistical Modeling` • `Data Visualization`
 
-🔗 **Repository:** https://github.com/VidhyadharMelam/Workforce-Capacity-Planning-Forecasting-Analytics-Platform
+🔗 [![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VidhyadharMelam/Workforce-Capacity-Planning-Forecasting-Analytics-Platform)
 
 ---
 
@@ -115,7 +115,7 @@ Built a machine learning solution to estimate the Remaining Useful Life (RUL) of
 
 **🛠️ Tech Stack:** `Python` • `Scikit-learn` • `Machine Learning` • `Predictive Analytics`
 
-🔗 **Repository:** https://github.com/VidhyadharMelam/Turbofan-Engine-RUL-Prediction
+🔗 [![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VidhyadharMelam/Turbofan-Engine-RUL-Prediction)
 
 ---
 
@@ -135,7 +135,7 @@ Designed and implemented an end-to-end Azure data platform leveraging Databricks
 
 **🛠️ Tech Stack:** `Azure` • `Databricks` • `PySpark` • `Delta Lake` • `Data Engineering`
 
-🔗 **Repository:** https://github.com/VidhyadharMelam/Azure-End-To-End-Data-Engineering-Databricks-Pyspark-Project--Olist-E-Commerce
+🔗 [![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VidhyadharMelam/Azure-End-To-End-Data-Engineering-Databricks-Pyspark-Project--Olist-E-Commerce)
 
 ---
 
@@ -155,7 +155,7 @@ Developed an end-to-end migration framework to transition data workloads from on
 
 **🛠️ Tech Stack:** `Azure Data Factory` • `Azure` • `SQL` • `ETL` • `Cloud Migration`
 
-🔗 **Repository:** https://github.com/VidhyadharMelam/Azure-End-To-End-Data-Engineering-On-prem-to-Azure-Cloud-AdventureWorks-Database
+🔗 [![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VidhyadharMelam/Azure-End-To-End-Data-Engineering-On-prem-to-Azure-Cloud-AdventureWorks-Database)
 
 ---
 
