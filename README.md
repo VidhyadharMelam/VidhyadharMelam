@@ -75,7 +75,7 @@ Designed and implemented an end-to-end data automation platform to transform raw
 
 **🛠️ Tech Stack:** `Databricks` • `SQL` • `Python` • `ETL/ELT` • `Reporting Automation`
 
-🔗 **Repository:** https://github.com/VidhyadharMelam/Operational-Reporting-Dataset-Automation-Platform
+🔗 [![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VidhyadharMelam/Operational-Reporting-Dataset-Automation-Platform)
 
 ---
 
