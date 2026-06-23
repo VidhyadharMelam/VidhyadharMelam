@@ -368,7 +368,7 @@ I believe that continuous learning is essential in the ever-evolving world of da
 
 ---
 
-## 🎓 Bachelor of Computer Applications (BCA)
+## 🎓 Bachelor of Computer Applications
 
 🏛️ **Presidency College - Bengaluru University**
 
