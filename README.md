@@ -62,54 +62,21 @@
 
 # 🚀 About Me
 
-> *Bridging the worlds of Data Engineering, Analytics, and Machine Learning to build scalable solutions that transform data into meaningful business outcomes.*
+> Bridging Data Engineering, Analytics, and Machine Learning to transform data into business impact.
 
----
+### ⚙️ What I Do
+• Build scalable data pipelines and cloud-native analytics solutions using Databricks, Azure Data Factory, SQL, and Python.
+• Design end-to-end workflows spanning ingestion, transformation, visualization, and predictive analytics.
+• Translate business requirements into actionable, data-driven solutions.
 
-### ⚙️ Currently Building
+### 🌱 Currently Exploring
+• Advanced MLOps
+• Real-Time Streaming Architectures
+• Microsoft Fabric & Lakehouse Design
+• Apache Spark Optimization
 
-Designing and developing **scalable data pipelines, cloud-native architectures, and analytics solutions** using modern technologies such as **Databricks, Azure Data Factory, SQL, and Python**, while delivering end-to-end projects spanning the entire data lifecycle—from ingestion and transformation to visualization and predictive insights.
-
----
-
-### 🤝 Open to Collaborate
-
-I enjoy collaborating on initiatives that create real-world impact, particularly in the areas of:
-
-- 🔹 Data Engineering & Analytics Engineering
-- 🔹 Machine Learning & Applied AI
-- 🔹 Cloud-Native Data Platforms
-- 🔹 Open-Source Data Projects
-- 🔹 AI-Driven Business Solutions
-
----
-
-### 🧠 Exploring & Growing
-
-Committed to continuous learning and staying ahead in the evolving data landscape through hands-on experimentation and practical implementation, with a current focus on:
-
-- 🚀 Advanced MLOps and production-grade ML workflows
-- ⚡ Distributed data architectures and scalable systems
-- 🌊 Real-time streaming and event-driven processing
-- 🏛️ Modern Lakehouse Architectures
-- ☁️ Microsoft Fabric and Databricks best practices
-- 🔥 Apache Spark performance optimization
-
----
-
-### 💬 Let's Talk About
-
-I enjoy discussing both the technical and strategic sides of data. Feel free to connect with me about:
-
-- 📊 Data Analytics & Business Intelligence
-- ⚙️ ETL/ELT Design and Data Pipeline Optimization
-- ☁️ Azure Data Engineering & Databricks
-- 🐍 Python for Data Analytics and Automation
-- 📈 Power BI & Tableau Dashboards
-- 🤖 Predictive Modeling and Machine Learning
-- 🏢 Translating Business Requirements into Data Solutions
-
----
+### 💬 Ask Me About
+Data Engineering • Analytics Engineering • SQL Optimization • Databricks • Azure • Power BI • Predictive Modeling
 
 ### ⚡ Beyond the Code
 
