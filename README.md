@@ -293,16 +293,6 @@ I'm always open to discussing Data Engineering, Analytics, Machine Learning, and
 
 ---
 
-# 📈 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=VidhyadharMelam&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=VidhyadharMelam&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VidhyadharMelam&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
