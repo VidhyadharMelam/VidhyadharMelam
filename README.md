@@ -90,27 +90,13 @@ I genuinely enjoy transforming messy datasets into meaningful stories because be
 
 > *A snapshot of the expertise, values, and aspirations that shape the way I approach data, technology, and problem-solving.*
 
----
-
-### 🎯 Career Mission
-To design intelligent, scalable, and data-driven solutions that bridge the gap between **Data Engineering, Analytics, and Machine Learning**, empowering organizations to transform data into strategic advantage and make confident, insight-driven decisions.
-
----
-
-### ☁️ Areas of Expertise
-
-Leveraging a multidisciplinary skill set to deliver end-to-end data solutions across the modern data ecosystem:
-
-- ⚙️ Data Engineering & Analytics Engineering
-- 📊 Data Analytics & Business Intelligence
-- 🤖 Machine Learning & Predictive Analytics
-- 🔄 ETL/ELT Design and Development
-- 🗄️ SQL Optimization & Data Modeling
-- 📈 Dashboarding and Data Visualization
-- ☁️ Cloud-Native Data Platforms
-- 🏛️ Lakehouse Architecture Implementation
-
----
+- 🏆 Microsoft Certified: Fabric Data Engineer Associate (DP-700)
+- 🎓 M.Sc. in Information Engineering & Computer Science (Germany)
+- 🥇 Graduated with a perfect Master's thesis score (100%)
+- ⚙️ Built multiple end-to-end data engineering solutions using Azure, Databricks, and PySpark
+- 📊 Delivered analytics-ready datasets powering operational reporting and decision-making
+- 🤖 Developed machine learning solutions for predictive maintenance and healthcare applications
+- ☁️ Experienced across modern data platforms, Lakehouse architectures, and cloud-native workflows
 
 ### 🛠️ Technologies I Enjoy Working With
 
@@ -118,43 +104,11 @@ Building reliable and scalable solutions using technologies that power modern da
 
 `Python` • `SQL` • `Databricks` • `PySpark` • `Azure Data Factory` • `Microsoft Fabric` • `Power BI` • `Tableau` • `AWS S3` • `Scikit-learn`
 
----
-
 ### 🏆 Achievement I'm Most Proud Of
 
 Designed and implemented analytics-ready pipelines following the **Medallion Architecture**, transforming **100K+ records** into trusted reporting datasets that improved reporting efficiency, enhanced data quality, and significantly reduced manual validation efforts.
 
 > **Impact:** Demonstrated how well-designed data architectures can convert operational complexity into reliable business insights.
-
----
-
-### 📚 Currently Exploring
-
-Committed to continuous learning and staying ahead of emerging trends shaping the future of data:
-
-- 🌊 Real-Time Data Streaming Architectures
-- 🏛️ Modern Lakehouse Design Patterns
-- 🤖 Generative AI Applications in Analytics
-- 🔬 Advanced MLOps and Model Lifecycle Management
-- ⚡ Apache Spark Optimization Techniques
-- ☁️ Microsoft Fabric and Next-Generation Data Platforms
-
----
-
-### 💼 Open to Opportunities
-
-Actively seeking opportunities where I can contribute, learn, and create meaningful impact in roles such as:
-
-- ⚙️ Data Engineer
-- 📊 Data Analyst
-- 📈 Analytics Engineer
-- 📉 Business Intelligence Developer
-- 🤖 Data Scientist
-- ☁️ Cloud Data Engineer
-
-> *Driven by curiosity, collaboration, and the desire to solve meaningful problems through data.*
-
----
 
 ### 🌍 What Drives Me
 
@@ -167,8 +121,6 @@ I believe that data has little value unless it enables action. What motivates me
 # 🚀 Featured Projects
 
 > *A curated portfolio of projects demonstrating expertise across Data Engineering, Data Analytics, and Machine Learning — transforming complex business challenges into scalable, data-driven solutions.*
-
----
 
 ## ⚙️ Operational Reporting Dataset Automation Platform
 ### Automating Operational Reporting Through Scalable Data Pipelines
@@ -188,8 +140,6 @@ Designed and implemented an end-to-end data automation platform to transform raw
 
 🔗 [![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VidhyadharMelam/Operational-Reporting-Dataset-Automation-Platform)
 
----
-
 ## 📊 Workforce Capacity Planning & Forecasting Analytics Platform
 ### Enabling Data-Driven Workforce Planning and Resource Optimization
 
@@ -207,8 +157,6 @@ Developed a forecasting and analytics platform to support workforce planning by 
 **🛠️ Tech Stack:** `Python` • `Forecasting` • `Analytics` • `Statistical Modeling` • `Data Visualization`
 
 🔗 [![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VidhyadharMelam/Workforce-Capacity-Planning-Forecasting-Analytics-Platform)
-
----
 
 ## 🤖 Turbofan Engine Remaining Useful Life Prediction
 ### Predictive Maintenance Using Machine Learning
@@ -228,8 +176,6 @@ Built a machine learning solution to estimate the Remaining Useful Life (RUL) of
 
 🔗 [![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VidhyadharMelam/Turbofan-Engine-RUL-Prediction)
 
----
-
 ## ☁️ Azure End-to-End Data Engineering Platform (Olist E-Commerce)
 ### Building a Modern Cloud-Native Data Platform
 
@@ -247,8 +193,6 @@ Designed and implemented an end-to-end Azure data platform leveraging Databricks
 **🛠️ Tech Stack:** `Azure` • `Databricks` • `PySpark` • `Delta Lake` • `Data Engineering`
 
 🔗 [![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VidhyadharMelam/Azure-End-To-End-Data-Engineering-Databricks-Pyspark-Project--Olist-E-Commerce)
-
----
 
 ## 🔄 On-Premises to Azure Cloud Migration (AdventureWorks)
 ### Modernizing Enterprise Data Workloads Through Cloud Migration
@@ -274,8 +218,6 @@ Developed an end-to-end migration framework to transition data workloads from on
 
 > *Industry-recognized certifications that validate my expertise in modern data platforms, cloud technologies, and data engineering practices.*
 
----
-
 ## 🏅 Microsoft Certified: Fabric Data Engineer Associate (DP-700)
 
 <p>
@@ -299,12 +241,6 @@ Developed an end-to-end migration framework to transition data workloads from on
 
 > **Credential Status:** ✅ Active & Verified
 
----
-
-### 🚀 Continuous Learning Philosophy
-
-I believe that continuous learning is essential in the ever-evolving world of data and AI. Certifications complement hands-on experience by validating knowledge while real-world projects demonstrate practical application.
-
 > *"Learning never stops—the best data professionals evolve as fast as the technologies they work with."*
 
 ---
@@ -312,8 +248,6 @@ I believe that continuous learning is essential in the ever-evolving world of da
 # 🎓 Education
 
 > *A journey shaped by curiosity, continuous learning, and the pursuit of transforming data into meaningful solutions that create real-world impact.*
-
----
 
 ## Master of Science (M.Sc.)
 ### Information Engineering & Computer Science
@@ -332,8 +266,6 @@ I believe that continuous learning is essential in the ever-evolving world of da
 - 🌍 Gained valuable international exposure through a multidisciplinary and multicultural academic environment, strengthening both technical expertise and cross-cultural collaboration.
 
 > *"True innovation happens when technology is applied to solve problems that matter to people's lives."*
-
----
 
 ## 🎓 Bachelor of Computer Applications
 
